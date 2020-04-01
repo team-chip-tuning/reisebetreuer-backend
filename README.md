@@ -1,6 +1,10 @@
 # reisebetreuer-backend
 Smart Watch Reisebetreuer Backend
 
+## Build Status actions
+![Java CI with Maven](https://github.com/team-chip-tuning/reisebetreuer-backend/workflows/Java%20CI%20with%20Maven/badge.svg)
+[![Build Status](https://travis-ci.org/team-chip-tuning/reisebetreuer-backend.svg?branch=master)](https://travis-ci.org/team-chip-tuning/reisebetreuer-backend)
+
 ### Cluster Setup Commands
 ```bash
 # setup cluster
@@ -31,11 +35,6 @@ kubectl create deployment backend --image=eu.gcr.io/reisebetreuer-backend/backen
 kubectl get pods
 kubectl create service loadbalancer backend --tcp=8080:8080
 ```
-
-## Build Status actions
-![Java CI with Maven](https://github.com/team-chip-tuning/reisebetreuer-backend/workflows/Java%20CI%20with%20Maven/badge.svg)
-[![Build Status](https://travis-ci.org/team-chip-tuning/reisebetreuer-backend.svg?branch=master)](https://travis-ci.org/team-chip-tuning/reisebetreuer-backend)
-
 ## OpenAPI
 This is version 1 api for reisebetreuer-backen
 Description REST-Endpoint, 
