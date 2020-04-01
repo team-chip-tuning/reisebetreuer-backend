@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="25381ca3-23e6-4356-9ada-b828aadab507" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reisebetreuer-backend.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch/smart/watch/reisebetreuer/reisebetreuer/ReisebetreuerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch/smart/watch/reisebetreuer/reisebetreuer/config/SwaggerConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch/smart/watch/reisebetreuer/reisebetreuer/controller/IndexController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ch/smart/watch/reisebetreuer/reisebetreuer/ReisebetreuerApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZwN5vr3M9Zw4wnMcuvN8wzBt1W" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager">
+    <configuration name="ReisebetreuerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="reisebetreuer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="ch.smart.watch.reisebetreuer.reisebetreuer.ReisebetreuerApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="UPDATE_ACTION_UPDATE_POLICY" value="UpdateClassesAndTriggerFile" />
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="25381ca3-23e6-4356-9ada-b828aadab507" name="Default Changelist" comment="" />
+      <created>1585746016569</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585746016569</updated>
+      <workItem from="1585746020646" duration="340000" />
+      <workItem from="1585746370280" duration="2996000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="149" y="158" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585747698050">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="149" y="158" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585747698050" />
+    <state x="765" y="218" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1585746048272">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="218" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585746048272" />
+    <state x="710" y="85" key="CommitChangelistDialog2" timestamp="1585746413259">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="710" y="85" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1585746413259" />
+    <state x="494" y="145" width="1183" height="685" key="DiffContextDialog" timestamp="1585746317956">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="494" y="145" width="1183" height="685" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585746317956" />
+    <state width="1323" height="183" key="GridCell.Tab.0.bottom" timestamp="1585749221418">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1323" height="183" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585749221418" />
+    <state width="1323" height="183" key="GridCell.Tab.0.center" timestamp="1585749221418">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1323" height="183" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585749221418" />
+    <state width="1323" height="183" key="GridCell.Tab.0.left" timestamp="1585749221418">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1323" height="183" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585749221418" />
+    <state width="1323" height="183" key="GridCell.Tab.0.right" timestamp="1585749221418">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1323" height="183" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585749221418" />
+    <state width="1323" height="183" key="GridCell.Tab.1.bottom" timestamp="1585749221419">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1323" height="183" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585749221419" />
+    <state width="1323" height="183" key="GridCell.Tab.1.center" timestamp="1585749221419">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1323" height="183" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585749221419" />
+    <state width="1323" height="183" key="GridCell.Tab.1.left" timestamp="1585749221419">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1323" height="183" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585749221419" />
+    <state width="1323" height="183" key="GridCell.Tab.1.right" timestamp="1585749221419">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1323" height="183" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585749221419" />
+    <state width="1323" height="183" key="GridCell.Tab.2.bottom" timestamp="1585749221420">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1323" height="183" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585749221420" />
+    <state width="1323" height="183" key="GridCell.Tab.2.center" timestamp="1585749221419">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1323" height="183" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585749221419" />
+    <state width="1323" height="183" key="GridCell.Tab.2.left" timestamp="1585749221419">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1323" height="183" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585749221419" />
+    <state width="1323" height="183" key="GridCell.Tab.2.right" timestamp="1585749221420">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1323" height="183" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585749221420" />
+    <state x="494" y="145" width="1183" height="685" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1585746265931">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="494" y="145" width="1183" height="685" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585746265931" />
+    <state x="896" y="406" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1585746265889">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="896" y="406" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1585746265889" />
+  </component>
+</project>
