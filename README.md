@@ -4,6 +4,7 @@ Smart Watch Reisebetreuer Backend
 ## Build Status actions
 ![Java CI with Maven](https://github.com/team-chip-tuning/reisebetreuer-backend/workflows/Java%20CI%20with%20Maven/badge.svg)
 [![Build Status](https://travis-ci.org/team-chip-tuning/reisebetreuer-backend.svg?branch=master)](https://travis-ci.org/team-chip-tuning/reisebetreuer-backend)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=reisebetreuer-backend&metric=alert_status)](https://sonarcloud.io/dashboard?id=reisebetreuer-backend)
 
 ### Cluster Setup Commands
 ```bash

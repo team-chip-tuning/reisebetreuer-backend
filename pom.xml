@@ -14,7 +14,11 @@
     <description>Smart Watch Reisebetreuer</description>
 
     <properties>
-        <java.version>14</java.version>
+        <java.version>11</java.version>
+        <sonar.projectKey>reisebetreuer-backend</sonar.projectKey>
+        <sonar.organization>team-chip-tuning</sonar.organization>
+        <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+        <sonar.login>27901df284f0d3fcbf3e6b3f4313925293bdaf90</sonar.login>
     </properties>
 
     <dependencies>
@@ -71,8 +75,8 @@
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-compiler-plugin</artifactId>
                 <configuration>
-                    <source>14</source>
-                    <target>14</target>
+                    <source>11</source>
+                    <target>11</target>
                 </configuration>
             </plugin>
         </plugins>
