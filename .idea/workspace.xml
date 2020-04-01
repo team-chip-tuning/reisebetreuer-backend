@@ -2,14 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25381ca3-23e6-4356-9ada-b828aadab507" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch/smart/watch/reisebetreuer/bc/accounting/AccountingController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch/smart/watch/reisebetreuer/bc/accounting/CustomerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch/smart/watch/reisebetreuer/bc/accounting/CustomerServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch/smart/watch/reisebetreuer/bc/accounting/model/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch/smart/watch/reisebetreuer/bc/navigator/NavigatorController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch/smart/watch/reisebetreuer/bc/navigator/NavigatorService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch/smart/watch/reisebetreuer/bc/navigator/NavigatorServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch/smart/watch/reisebetreuer/bc/navigator/model/Navigator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch/smart/watch/reisebetreuer/bc/navigator/model/TravelDisruption.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch/smart/watch/reisebetreuer/bc/navigator/model/TravelPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch/smart/watch/reisebetreuer/bc/navigator/model/TravelType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch/smart/watch/reisebetreuer/bc/navigator/model/TripAlternative.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ch/smart/watch/reisebetreuer/bc/accounting/AccountingControllerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ch/smart/watch/reisebetreuer/bc/accounting/CustomerServiceImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ch/smart/watch/reisebetreuer/bc/navigator/NavigatorControllerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ch/smart/watch/reisebetreuer/bc/navigator/NavigatorServiceImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ch/smart/watch/reisebetreuer/controller/IndexControllerTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ch/smart/watch/reisebetreuer/reisebetreuer/ReisebetreuerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ch/smart/watch/reisebetreuer/ReisebetreuerApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ch/smart/watch/reisebetreuer/reisebetreuer/config/SwaggerConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ch/smart/watch/reisebetreuer/config/SwaggerConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ch/smart/watch/reisebetreuer/reisebetreuer/controller/IndexController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ch/smart/watch/reisebetreuer/controller/IndexController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ch/smart/watch/reisebetreuer/reisebetreuer/ReisebetreuerApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ch/smart/watch/reisebetreuer/ReisebetreuerApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ch/smart/watch/reisebetreuer/controller/IndexController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ch/smart/watch/reisebetreuer/controller/IndexController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ch/smart/watch/reisebetreuer/ReisebetreuerApplicationTests.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,7 +31,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -59,6 +73,8 @@
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
@@ -67,6 +83,17 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="ch.smart.watch.reisebetreuer.bc.navigator" />
+      <recent name="ch.smart.watch.reisebetreuer.bc.accounting" />
+      <recent name="ch.smart.watch.reisebetreuer.controller" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="ch.smart.watch.reisebetreuer.bc.navigator" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\workarea\reisebetreuer-backend" />
     </key>
@@ -110,7 +137,7 @@
       <workItem from="1585755153044" duration="17000" />
       <workItem from="1585755194362" duration="789000" />
       <workItem from="1585756049736" duration="1956000" />
-      <workItem from="1585758285860" duration="863000" />
+      <workItem from="1585758285860" duration="6606000" />
     </task>
     <task id="LOCAL-00001" summary="init git project and java setup">
       <created>1585749426519</created>
@@ -133,7 +160,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585758928376</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Refactor: default project package name">
+      <created>1585759311492</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1585759311492</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -156,17 +190,22 @@
     <MESSAGE value="init git project and java setup" />
     <MESSAGE value="add docker image build file" />
     <MESSAGE value="config change to java 14" />
-    <option name="LAST_COMMIT_MESSAGE" value="config change to java 14" />
+    <MESSAGE value="Refactor: default project package name" />
+    <option name="LAST_COMMIT_MESSAGE" value="Refactor: default project package name" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="149" y="158" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585759154074">
+    <state x="149" y="158" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585764091524">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="149" y="158" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585759154074" />
-    <state x="424" y="290" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1585759151618">
+    <state x="149" y="158" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585764091524" />
+    <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser" timestamp="1585764390702">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="424" y="290" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585759151618" />
+    <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1585764390702" />
+    <state x="424" y="290" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1585764088360">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="424" y="290" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585764088360" />
     <state x="765" y="218" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1585746048272">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -175,10 +214,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="623" y="268" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585755617316" />
-    <state x="710" y="85" key="CommitChangelistDialog2" timestamp="1585758927384">
+    <state x="710" y="85" key="CommitChangelistDialog2" timestamp="1585759310041">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="710" y="85" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1585758927384" />
+    <state x="710" y="85" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1585759310041" />
     <state x="242" y="99" width="1464" height="685" maximized="true" key="DiffContextDialog" timestamp="1585758862382">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -187,54 +226,54 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="277" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1585755323840" />
-    <state width="1877" height="519" key="GridCell.Tab.0.bottom" timestamp="1585759243078">
+    <state width="1877" height="230" key="GridCell.Tab.0.bottom" timestamp="1585764920475">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="519" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585759243078" />
-    <state width="1877" height="519" key="GridCell.Tab.0.center" timestamp="1585759243078">
+    <state width="1877" height="230" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585764920475" />
+    <state width="1877" height="230" key="GridCell.Tab.0.center" timestamp="1585764920474">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="519" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585759243078" />
-    <state width="1877" height="519" key="GridCell.Tab.0.left" timestamp="1585759243077">
+    <state width="1877" height="230" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585764920474" />
+    <state width="1877" height="230" key="GridCell.Tab.0.left" timestamp="1585764920474">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="519" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585759243077" />
-    <state width="1877" height="519" key="GridCell.Tab.0.right" timestamp="1585759243078">
+    <state width="1877" height="230" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585764920474" />
+    <state width="1877" height="230" key="GridCell.Tab.0.right" timestamp="1585764920475">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="519" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585759243078" />
-    <state width="1877" height="519" key="GridCell.Tab.1.bottom" timestamp="1585759243079">
+    <state width="1877" height="230" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585764920475" />
+    <state width="1877" height="230" key="GridCell.Tab.1.bottom" timestamp="1585764920475">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="519" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585759243079" />
-    <state width="1877" height="519" key="GridCell.Tab.1.center" timestamp="1585759243078">
+    <state width="1877" height="230" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585764920475" />
+    <state width="1877" height="230" key="GridCell.Tab.1.center" timestamp="1585764920475">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="519" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585759243078" />
-    <state width="1877" height="519" key="GridCell.Tab.1.left" timestamp="1585759243078">
+    <state width="1877" height="230" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585764920475" />
+    <state width="1877" height="230" key="GridCell.Tab.1.left" timestamp="1585764920475">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="519" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585759243078" />
-    <state width="1877" height="519" key="GridCell.Tab.1.right" timestamp="1585759243078">
+    <state width="1877" height="230" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585764920475" />
+    <state width="1877" height="230" key="GridCell.Tab.1.right" timestamp="1585764920475">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="519" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585759243078" />
-    <state width="1877" height="519" key="GridCell.Tab.2.bottom" timestamp="1585759243079">
+    <state width="1877" height="230" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585764920475" />
+    <state width="1877" height="230" key="GridCell.Tab.2.bottom" timestamp="1585764920476">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="519" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585759243079" />
-    <state width="1877" height="519" key="GridCell.Tab.2.center" timestamp="1585759243079">
+    <state width="1877" height="230" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585764920476" />
+    <state width="1877" height="230" key="GridCell.Tab.2.center" timestamp="1585764920476">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="519" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585759243079" />
-    <state width="1877" height="519" key="GridCell.Tab.2.left" timestamp="1585759243079">
+    <state width="1877" height="230" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585764920476" />
+    <state width="1877" height="230" key="GridCell.Tab.2.left" timestamp="1585764920475">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="519" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585759243079" />
-    <state width="1877" height="519" key="GridCell.Tab.2.right" timestamp="1585759243079">
+    <state width="1877" height="230" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585764920475" />
+    <state width="1877" height="230" key="GridCell.Tab.2.right" timestamp="1585764920476">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="519" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585759243079" />
+    <state width="1877" height="230" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585764920476" />
     <state x="686" y="232" key="RollbackChangesDialog" timestamp="1585755693196">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -243,10 +282,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="440" y="97" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1585756696316" />
-    <state x="287" y="259" key="Vcs.Push.Dialog.v2" timestamp="1585758930005">
+    <state x="287" y="259" key="Vcs.Push.Dialog.v2" timestamp="1585759313649">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="287" y="259" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1585758930005" />
+    <state x="287" y="259" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1585759313649" />
     <state x="494" y="145" width="1183" height="685" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1585746265931">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -255,5 +294,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="896" y="406" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1585746265889" />
+    <state x="704" y="252" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1585764902633">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="704" y="252" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585764902633" />
   </component>
 </project>
