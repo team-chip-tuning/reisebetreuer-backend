@@ -1,4 +1,4 @@
-package ch.smart.watch.reisebetreuer.reisebetreuer.controller;
+package ch.smart.watch.reisebetreuer.controller;
 
 import io.swagger.annotations.Api;
 import lombok.extern.slf4j.Slf4j;

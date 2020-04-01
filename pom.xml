@@ -8,10 +8,9 @@
         <version>2.2.6.RELEASE</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>ch.smart.watch.reisebetreuer</groupId>
+    <groupId>ch.smart.watch</groupId>
     <artifactId>reisebetreuer</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>reisebetreuer</name>
     <description>Smart Watch Reisebetreuer</description>
 
     <properties>

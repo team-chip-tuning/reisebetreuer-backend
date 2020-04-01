@@ -1,4 +1,4 @@
-package ch.smart.watch.reisebetreuer.reisebetreuer;
+package ch.smart.watch.reisebetreuer;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

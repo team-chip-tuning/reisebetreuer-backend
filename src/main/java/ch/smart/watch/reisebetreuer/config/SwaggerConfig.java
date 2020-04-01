@@ -1,4 +1,4 @@
-package ch.smart.watch.reisebetreuer.reisebetreuer.config;
+package ch.smart.watch.reisebetreuer.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
