@@ -42,5 +42,5 @@ Description REST-Endpoint,
 
 ```bash
 local : http://localhost:8080/api/v1/swagger-ui.html
-cluster: 34.65.191.195:8080/api/v1/swagger-ui.html
+cluster: http://34.65.233.132:8080/api/v1/swagger-ui.html
 ```
