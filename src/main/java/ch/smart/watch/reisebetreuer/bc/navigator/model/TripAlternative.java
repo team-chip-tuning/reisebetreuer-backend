@@ -8,7 +8,7 @@ import java.util.List;
 @Data
 @Builder
 public class TripAlternative {
-    private Long Id;
+    private Long id;
     private Long travelDisruptionId;
     private List<TravelPath> travelPathList;
 }

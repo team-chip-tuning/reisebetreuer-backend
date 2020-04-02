@@ -43,7 +43,7 @@ public class CustomerServiceImpl implements CustomerService {
                 .findAny();
 
         if (deleteCustomer.isPresent()) {
-            customerList.remove(deleteCustomer.get().getId());
+            customerList.remove(deleteCustomer.get());
         }
     }
 }

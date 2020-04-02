@@ -12,4 +12,5 @@ public class Navigator {
     private Long customerId;
     private List<TravelPath> travelPathList;
     private TravelDisruption travelDisruption;
+    private Long coTwoUsage;
 }
