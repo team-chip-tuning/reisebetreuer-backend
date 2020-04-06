@@ -1,0 +1,25 @@
+    apiVersion: apps/v1
+    kind: Deployment
+    metadata:
+      name: backend
+    spec:
+      replicas: 1
+      selector:
+        matchLabels:
+          run: backend
+      template:
+        metadata:
+          labels:
+            run: backend
+        spec:
+          containers:
+          - name: backend
+            image: eu.gcr.io/reisebetreuer-backend/backend:v0.0.2
+            readinessProbe:
+              initialDelaySeconds: 8
+              periodSeconds: 30
+              httpGet:
+                path: /api/v1/info/status
+                tcpSocket:
+                port: 8080
+    
