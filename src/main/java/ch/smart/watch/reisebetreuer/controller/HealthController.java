@@ -8,15 +8,15 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-@Api(tags = "REST-ENDPOINT: app information", produces = MediaType.APPLICATION_JSON_VALUE)
+@Api(tags = "REST-ENDPOINT: app health controller for pod check", produces = MediaType.APPLICATION_JSON_VALUE)
 @Slf4j
 @RestController
-@RequestMapping("api/v1/info")
-public class IndexController {
+@RequestMapping("/")
+public class HealthController {
 
-    @GetMapping("status")
+    @GetMapping( produces = MediaType.APPLICATION_JSON_VALUE)
     public ResponseEntity<String> index() {
-        log.info("Endpoint status is called");
-        return ResponseEntity.ok("Smart watch Reisebetreuer App v1 is up and running.. have a nice day");
+        log.info("Endpoint root health controller is called");
+        return ResponseEntity.ok("health check");
     }
 }

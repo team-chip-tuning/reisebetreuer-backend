@@ -15,7 +15,7 @@ import java.util.List;
 @Api(tags = "REST-ENDPOINT: accounting bounded context", produces = MediaType.APPLICATION_JSON_VALUE)
 @Slf4j
 @RestController
-@RequestMapping("accounting")
+@RequestMapping("api/v1/accounting")
 public class AccountingController {
 
     private final CustomerService customerService;

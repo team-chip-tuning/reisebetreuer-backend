@@ -13,7 +13,7 @@ import org.springframework.web.bind.annotation.RestController;
 @Api(tags = "REST-ENDPOINT: navigator bounded context", produces = MediaType.APPLICATION_JSON_VALUE)
 @Slf4j
 @RestController
-@RequestMapping("navigator")
+@RequestMapping("api/v1/navigator")
 public class NavigatorController {
 
     private final NavigatorService navigatorService;

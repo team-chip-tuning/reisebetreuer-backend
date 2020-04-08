@@ -41,6 +41,6 @@ This is version 1 api for reisebetreuer-backen
 Description REST-Endpoint, 
 
 ```bash
-local : http://localhost:8080/api/v1/swagger-ui.html
-cluster: http://34.65.246.138:8080/api/v1/swagger-ui.html
+local : http://localhost:8080/swagger-ui.html
+cluster: http://35.190.87.92/swagger-ui.html
 ```
